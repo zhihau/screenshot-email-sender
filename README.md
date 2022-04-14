@@ -8,7 +8,7 @@
 	- Set time interval.
 - ### :film_projector:Demo
   ![screenshot-email-sender demo.gif](./assets/screenshot-email-sender_demo_1649920679988_0.gif)
-- ### ??History
+- ### :timer_clock: History
 	- Version 1.0.0 - Date 2008/8/13
 		- send screenshot of SimReport window to gmail
 	- Version 1.2.3 - Date 2008/8/15
