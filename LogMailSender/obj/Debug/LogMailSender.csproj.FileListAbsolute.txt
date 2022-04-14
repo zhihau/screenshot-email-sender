@@ -1,0 +1,12 @@
+F:\Others\D槽\Projects2\XP_C#_LogMailSender\SourceCode\LogMailSender\obj\Debug\LogMailSender.AboutForm.resources
+F:\Others\D槽\Projects2\XP_C#_LogMailSender\SourceCode\LogMailSender\obj\Debug\LogMailSender.csproj.GenerateResource.cache
+F:\Others\D槽\Projects2\XP_C#_LogMailSender\SourceCode\LogMailSender\obj\Debug\LogMailSender.exe
+F:\Others\D槽\Projects2\XP_C#_LogMailSender\SourceCode\LogMailSender\obj\Debug\LogMailSender.pdb
+F:\Others\D槽\Projects2\XP_C#_LogMailSender\SourceCode\LogMailSender\obj\Debug\LogMailSender.MainForm.resources
+F:\Others\D槽\Projects2\XP_C#_LogMailSender\SourceCode\LogMailSender\obj\Debug\LogMailSender.Properties.Resources.resources
+F:\Others\D槽\Projects2\XP_C#_LogMailSender\SourceCode\LogMailSender\obj\Debug\LogMailSender.csproj.CoreCompileInputs.cache
+F:\Others\D槽\Projects2\XP_C#_LogMailSender\SourceCode\LogMailSender\bin\Debug\LogMailSender.exe.config
+F:\Others\D槽\Projects2\XP_C#_LogMailSender\SourceCode\LogMailSender\bin\Debug\LogMailSender.exe
+F:\Others\D槽\Projects2\XP_C#_LogMailSender\SourceCode\LogMailSender\bin\Debug\LogMailSender.pdb
+F:\Others\D槽\Projects2\XP_C#_LogMailSender\SourceCode\LogMailSender\bin\Debug\LogFile.pdb
+F:\Others\D槽\Projects2\XP_C#_LogMailSender\SourceCode\LogMailSender\obj\Debug\LogMailSender.csproj.CopyComplete

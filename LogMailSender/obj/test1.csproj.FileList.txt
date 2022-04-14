@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\test1.Form1.resources
+obj\Debug\test1.Properties.Resources.resources
+obj\Debug\test1.csproj.GenerateResource.Cache
+bin\Debug\test1.exe
+bin\Debug\test1.pdb
+obj\Debug\test1.exe
+obj\Debug\test1.pdb
+bin\Release\test1.exe
+bin\Release\test1.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\test1.Form1.resources
+obj\Release\test1.Properties.Resources.resources
+obj\Release\test1.csproj.GenerateResource.Cache
+obj\Release\test1.exe
+obj\Release\test1.pdb

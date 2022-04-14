@@ -1,0 +1,15 @@
+<IniFile>
+  <ProgramProcess>
+    <StreamName>Log</StreamName>
+    <LogHeader />
+    <FileExtension>log</FileExtension>
+    <IsEnableHeading>True</IsEnableHeading>
+    <IsEnableEnding>True</IsEnableEnding>
+    <logLineTimeFormat>dd HH:mm:ss.fff|</logLineTimeFormat>
+    <Path>F:\Others\D槽\Projects2\XP_C#_LogMailSender\SourceCode\LogMailSender\bin\Debug\ProgramProcess\</Path>
+    <TraceVerbose>100</TraceVerbose>
+    <RollOverSize>1048576<!--bytes--></RollOverSize>
+    <FileKeepDays>7</FileKeepDays>
+    <EnableTime>true</EnableTime>
+  </ProgramProcess>
+</IniFile>
